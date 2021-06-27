@@ -8,6 +8,9 @@
 
 ### 关于Wiki
 
+[![Join the chat at https://gitter.im/PixelTails/Server](https://badges.gitter.im/PixelTails/Server.svg)](https://gitter.im/PixelTails/Server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 **PixelTail Wiki** 由玩家与管理组成员共同撰写而成，可以通过连接：[wiki.pixeltail.org](https://wiki.pixeltail.org) 进行访问
 
 ### Licence
